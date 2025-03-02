@@ -1,0 +1,1 @@
+This is a collection of the second C++ class at Oakton. 
